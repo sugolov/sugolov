@@ -1,6 +1,6 @@
 # Hello
 
 - Im an Applied Math and Statistics student at the University of Toronto
-- Currently implementing a [denoising diffusion model](https://github.com/sugolov/diffusion) and interested in working on EBMs
+- Currently implementing diffusion models. Interested in making an encyclopedia of trained EBMs
   - feel free to join in
 - Check out [sugolov.ca](https://sugolov.ca)
