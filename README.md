@@ -1,6 +1,5 @@
 # Hello
 
 - Math MSc. at University of Toronto
-- Currently implementing diffusion models. Interested in making an encyclopedia of trained EBMs
-  - feel free to join in
+- Currently researching inductive biases in diffusion models
 - Check out [sugolov.ca](https://sugolov.ca)
