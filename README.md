@@ -1,5 +1,4 @@
 # Hello
 
-- Math MSc. at University of Toronto
-- Currently researching inductive biases in diffusion models
+- Current Math MSc. student at University of Toronto
 - Check out [sugolov.ca](https://sugolov.ca)
