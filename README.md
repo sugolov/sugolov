@@ -1,3 +1,3 @@
 # Hello
 
-- Current Math MSc. student at University of Toronto
+- sugolov.github.io
