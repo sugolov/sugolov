@@ -1,3 +1,2 @@
 # Hello
-
-- sugolov.github.io
+Check out [https://sugolov.github.io/](https://sugolov.github.io/)
